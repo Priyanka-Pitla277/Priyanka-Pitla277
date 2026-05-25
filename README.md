@@ -14,6 +14,6 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## My Skills 🧠
 
-## java
+## JAVA
 
 
